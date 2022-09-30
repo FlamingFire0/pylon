@@ -4,9 +4,8 @@ app = Flask(__name__)
 
 @app.route("/")
 def home():
-    websitetext = open("core\website.html").read()
-    return websitetext
-
+    index = open("core\index.html").read()
+    return index
 
 
 
