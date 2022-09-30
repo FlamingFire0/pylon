@@ -1,0 +1,11 @@
+Commands usually are typed like: "command( [argumets] )"
+
+List of Commands:
+
+- help()    | Prints this Message | Note:no need for "()"
+
+- print()	| Prints a Message
+
+- cd() 		| Change Directory
+
+- path() 	| Displays the Current Directory
