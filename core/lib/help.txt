@@ -2,10 +2,10 @@ Commands usually are typed like: "command( [argumets] )"
 
 List of Commands:
 
-- help()    | Prints this Message | Note:no need for "()"
+- help      | Prints this Message
 
-- print()	| Prints a Message
+- print     | Prints a Message
 
-- cd() 		| Change Directory
+- cd        | Change Directory
 
-- path() 	| Displays the Current Directory
+- path      | Displays the Current Directory
